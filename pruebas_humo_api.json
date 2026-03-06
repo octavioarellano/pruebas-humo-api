@@ -22,8 +22,13 @@
       ],
       "request": {
         "method": "GET",
+        "header": [],
         "url": {
-          "raw": "https://k51qryqov3.execute-api.ap-southeast-2.amazonaws.com/prod/makes/ckl2phsabijs71623vk0?modelsPage=1"
+          "raw": "https://k51qryqov3.execute-api.ap-southeast-2.amazonaws.com/prod/makes/ckl2phsabijs71623vk0?modelsPage=1",
+          "protocol": "https",
+          "host": [ "k51qryqov3", "execute-api", "ap-southeast-2", "amazonaws", "com" ],
+          "path": [ "prod", "makes", "ckl2phsabijs71623vk0" ],
+          "query": [ { "key": "modelsPage", "value": "1" } ]
         }
       }
     }
