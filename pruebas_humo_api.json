@@ -5,7 +5,7 @@
   },
   "item": [
     {
-      "name": "New Request",
+      "name": "Validacion Real AWS",
       "event": [
         {
           "listen": "test",
